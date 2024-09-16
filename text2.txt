@@ -1,0 +1,2 @@
+["Name: Kristina, Age: 28, Subject: Programming","Name: Mary, Age: 20, Group: P-222","Name: Ivanov, Age: 40, Type of transport: Car"]
+["Name: Oleg, Age: 21, Subject: Programming","Name: Victor, Age: 19, Group: P-222","Name: Ivan, Age: 33, Type of transport: Car"]
